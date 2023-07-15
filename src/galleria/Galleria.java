@@ -5,10 +5,6 @@
  */
 package galleria;
 
-/**
- *
- * @author Vishvash Bohra
- */
 public class Galleria {
 
     /**
